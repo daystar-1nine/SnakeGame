@@ -31,6 +31,14 @@ Featuring custom 3D specular graphics, programmatic audio synthesis, dynamic lev
 
 ---
 
+## 📸 Screenshots
+
+| Start Screen | Gameplay |
+| :---: | :---: |
+| ![Start Screen](screenshot_start.png) | ![Gameplay Screen](screenshot_gameplay.png) |
+
+---
+
 ## 🎮 Controls
 
 | Key | Action |
@@ -55,6 +63,8 @@ SnakeGame/
 ├── .idea/                 # IntelliJ IDEA configuration files
 ├── .gitignore             # Git exclusion rules
 ├── logo.png               # Custom retro-neon logo asset
+├── screenshot_start.png   # Start Screen screenshot
+├── screenshot_gameplay.png# Gameplay Screen screenshot
 ├── SnakeGame.iml          # IntelliJ module descriptor
 ├── Main.java              # EDT Entry point launcher
 ├── GameFrame.java         # Frame window container (JFrame)
